@@ -1,5 +1,5 @@
 # Competition 
-
+THis competition discription is taken from the kaggle competition home page 
 # What should I expect the data format to be?
 The data is images of wheat fields, with bounding boxes for each identified wheat head. Not all images include wheat heads / bounding boxes. The images were recorded in many locations around the world.
 
